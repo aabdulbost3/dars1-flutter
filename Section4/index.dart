@@ -22,4 +22,5 @@ void main(List<String> args) {
   double boy = 20;
   print("Eni $eni boyi $boy opshiy ${eni * boy}kv");
 }
+
 // flutter 1kun. 8 chi darsda toxtadim!
